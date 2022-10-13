@@ -22,7 +22,7 @@
           "apiEndpoint": "https://api.cf.us10.hana.ondemand.com",
           "org": "7e3b701btrial_trial-us-7kg5c94t",
           "space": "DB Space",
-          "instance": "MyINTApp-auth",
+          "instance": "MyHANAApp-auth",
           "key": "default",
           "resolved": false
         },

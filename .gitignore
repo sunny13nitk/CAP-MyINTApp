@@ -28,3 +28,8 @@ hs_err*
 
 # auto generated wildcard
 db/.env
+# added by cds bind
+.cdsrc-private.json
+
+# added by cds bind
+.cdsrc-private.json
